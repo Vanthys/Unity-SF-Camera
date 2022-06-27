@@ -19,5 +19,5 @@ I originally found this code deep in a github discussion but forgot where.
 Since I had to rewrite the script so that it works with the new input system, as well as 
 making some other QoL changes in the process, I figured it wouldn't hurt to post the new one somewhere.
 
-##License
+## License
 MIT
